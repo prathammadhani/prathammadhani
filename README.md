@@ -4,7 +4,7 @@
 Competitive Programming Enthusiast | Web Developer | Django | ExpressJS
 
 <a href="https://www.linkedin.com/in/pratham-madhani-4a05091b8/" target="_blank">
-  <img height="32" width="32" alt="Pratham Madhani's Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />
+  <img height="32" width="32" alt="Pratham Madhani's Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" style="Color:blue;"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:0.prathamadhani28@gmail.com" target="_blank">
