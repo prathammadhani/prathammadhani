@@ -4,18 +4,22 @@
 Competitive Programming Enthusiast | Web Developer | Django | ExpressJS
 
 <a href="https://www.linkedin.com/in/pratham-madhani-4a05091b8/" target="_blank">
-  <img height="32" width="32" alt="Pratham Madhani's Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" style="Color:blue;"/>
+  <img height="32" width="32" alt="Pratham Madhani's Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/madhani_pratham" target="_blank">
+  <img height="32" width="32" alt="Pratham Madhani's Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />     
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/pratham.madhani" target="_blank">
+  <img height="32" width="32" alt="Pratham Madhani's Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />          
 </a>
 &nbsp;&nbsp;
 <a href="mailto:0.prathamadhani28@gmail.com" target="_blank">
   <img height="32" width="32" alt="Pratham Madhani's Email" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" />
 </a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/pratham.madhani" target="_blank">
-  <img height="32" width="32" alt="Pratham Madhani's Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" />
-</a>
 
-I'm extremely passionate about Technology and loves to develop new hacks. I spend my time in eating new tech fish and experiment with it.
+I'm extremely passionate about Technology and love to develop new hacks. I spend my time in eating new tech fish and experiment with it.
 
 - 🌱 I’m currently learning Andriod Development
 - 💬 Ask me about Django | ExpressJS | Random Stuff
@@ -32,7 +36,7 @@ I'm extremely passionate about Technology and loves to develop new hacks. I spen
 - [LifeLink](https://lifelink.eu-de.mybluemix.net/) - [IBM Reimagine Future Hackathon | Team Sukhakarta | Top 11 Finalist](https://www.hackerearth.com/challenges/hackathon/reimaginefuture-hackathon/?utm_source=platform&utm_medium=push&utm_campaign=ReimagineFutureHackathon)
 - Login Credentials Manager - [Video Demo Link](https://drive.google.com/file/d/1ih3lDmSuKYymXenrha9ICDivqHvWWCFG/view) -->
 
-Find More Details about Project on [Linkedin](https://www.linkedin.com/in/pratham-madhani-4a05091b8/)
+Find More Details about my Projects [here](https://github.com/P-28032002)
 
 <hr>
 
