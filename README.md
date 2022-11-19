@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> Hey, nice to see you.
 
-### Hi, I'm [Pratham Madhani](https://github.com/AbhishekMore-1)
+### Hi, I'm [Pratham Madhani](https://github.com/P-28032002)
 Competitive Programming Enthusiast | Web Developer | Django | ExpressJS
 
 <a href="https://www.linkedin.com/in/pratham-madhani-4a05091b8/" target="_blank">
