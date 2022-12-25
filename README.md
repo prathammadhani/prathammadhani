@@ -36,7 +36,7 @@ I'm extremely passionate about Technology and love to develop new hacks. I spend
 - [LifeLink](https://lifelink.eu-de.mybluemix.net/) - [IBM Reimagine Future Hackathon | Team Sukhakarta | Top 11 Finalist](https://www.hackerearth.com/challenges/hackathon/reimaginefuture-hackathon/?utm_source=platform&utm_medium=push&utm_campaign=ReimagineFutureHackathon)
 - Login Credentials Manager - [Video Demo Link](https://drive.google.com/file/d/1ih3lDmSuKYymXenrha9ICDivqHvWWCFG/view) -->
 
-Find More Details about my Projects [here](https://github.com/P-28032002)
+Find More Details about my Projects [here](https://github.com/P-28032002?tab=repositories)
 
 <hr>
 
