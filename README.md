@@ -3,8 +3,8 @@
 
 <h5 align="center">Connect with me:</h5>
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratham-madhani-4a05091b8/" target="_blank">
-    <img height="30" width="40" alt="Pratham Madhani's Linkedin Profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <a href="https://www.linkedin.com/in/pratham-madhani-4a05091b8/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratham-madhani-4a05091b8/" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/Insane07" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Insane07's Leetcode Profile" height="30" width="40" />
