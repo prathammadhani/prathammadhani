@@ -158,19 +158,6 @@ Designed a backend integration module surfacing sandbox submission failures in r
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathammadhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathammadhani&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathammadhani&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💼 Experience Timeline
 
 ```
